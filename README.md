@@ -22,3 +22,5 @@ Access JupyterLab:
 Open a web browser and navigate to http://localhost:8888. You should see the JupyterLab interface with the provided notebooks available.
 
 Contact yusufashk@gmail.com for any questions about this tutorial
+
+Thanks to Reuben Sarwal for helping create this tutorial, and Sanchita Bhattacharya for her supervision in this whole process. Also thanks to the rest of the import team for their help in stress testing and their efforts to optimize the tutorial.
